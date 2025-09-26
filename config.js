@@ -2,11 +2,11 @@ export default {
   botToken: "8458008190:AAFun2UxDhkQGTpGkACXhnLxylx6NstwJlk", 
 
   // API token
-  githubToken: "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", 
+  githubToken: "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", 
   githubUsername: "kaiisz1",
 
   vercelToken: "bvgaNkgT0NOHf6joSOYo54Cy",
-  netlifyToken: "nfp_NzXWyi7FanLwy9W7ykxj6qasNzr1vzAm6ae6",
+  netlifyToken: "nfp_8EDSShRApiCJBSBvNzF6ZYMXPFk385FE268b",
 
   // Premium system
   owner: ["8463333178"],
