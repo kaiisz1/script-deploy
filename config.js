@@ -2,7 +2,7 @@ export default {
   botToken: "8458008190:AAFun2UxDhkQGTpGkACXhnLxylx6NstwJlk", 
 
   // API token
-  githubToken: "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", 
+  githubToken: "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", 
   githubUsername: "kaiisz1",
 
   vercelToken: "bvgaNkgT0NOHf6joSOYo54Cy",
